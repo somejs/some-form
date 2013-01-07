@@ -2,7 +2,7 @@
   "name": "some-form",
   "version": "0.2.1",
   "license": "MIT",
-  "description": "some schema dsl",
+  "description": "some form dsl",
   "keywords": [
     "some", "form", "domain", "specific", "language",
     "structure", "transform", "validate"
